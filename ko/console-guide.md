@@ -1,1 +1,1 @@
-## Infrastructure > 콘솔 사용 가이드
+## Infrastructure Common > 콘솔 사용 가이드
