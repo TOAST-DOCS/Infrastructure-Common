@@ -12,8 +12,8 @@ Object Storage를 제외한 Compute, Network, Storage API 를 사용하기 위�
 
 앱키는 아래와 같이 발급 받을 수 있습니다.
 
-1. TOAST 콘솔 Compute 페이지의 상단 [URL & Appkey] 클릭
-2. 대화창에 기재 된 [Appkey] 값 복사 후 사용
+\1. TOAST 콘솔 Compute 페이지의 상단 [URL & Appkey] 클릭
+\2. 대화창에 기재 된 [Appkey] 값 복사 후 사용
 
 
 ### API Response
