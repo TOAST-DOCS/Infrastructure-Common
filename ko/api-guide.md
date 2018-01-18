@@ -1,6 +1,6 @@
-# Reference > API 사용 준비 가이드
+## Reference > API 사용 준비 가이드
 
-[Storage > Object Storage] 서비스를 제외한 Compute, Network, Storage API 를 사용하기 위해 필요한 작업입니다.
+Object Storage를 제외한 Compute, Network, Storage API 를 사용하기 위해 필요한 작업입니다.
 
 ## API Endpoint URL
 
